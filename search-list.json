@@ -1,0 +1,220 @@
+{
+  "a": [
+    {
+      "cityName": "安庆",
+      "Initials": "aq"
+    },{
+      "cityName": "安庆1",
+      "Initials": "aq"
+    },{
+      "cityName": "安庆2",
+      "Initials": "aq"
+    },{
+      "cityName": "安庆3",
+      "Initials": "aq"
+    },{
+      "cityName": "安庆4",
+      "Initials": "aq"
+    },{
+      "cityName": "安庆5",
+      "Initials": "aq"
+    },{
+      "cityName": "安庆6",
+      "Initials": "aq"
+    },{
+      "cityName": "安庆7",
+      "Initials": "aq"
+    },{
+      "cityName": "安庆8",
+      "Initials": "aq"
+    },{
+      "cityName": "安庆9",
+      "Initials": "aq"
+    },{
+      "cityName": "安庆10",
+      "Initials": "aq"
+    },
+    {
+      "cityName": "安阳",
+      "Initials": "aq"
+    }
+  ],
+  "b": [
+    {
+      "cityName": "北京",
+      "Initials": "bj"
+    },
+    {
+      "cityName": "保定",
+      "Initials": "bd"
+    }
+  ],
+  "c": [
+    {
+      "cityName": "沧州",
+      "Initials": "cz"
+    }
+  ],
+  "d": [
+    {
+      "cityName": "大同",
+      "Initials": "dt"
+    },
+    {
+      "cityName": "大庆",
+      "Initials": "dq"
+    },
+    {
+      "cityName": "大连",
+      "Initials": "dl"
+    }
+  ],
+  "e": [
+    {
+      "cityName": "鄂尔多斯",
+      "Initials": "erds"
+    }
+  ],
+  "f": [
+    {
+      "cityName": "阜新",
+      "Initials": "fx"
+    },
+    {
+      "cityName": "阜阳",
+      "Initials": "fy"
+    }
+  ],
+  "g": [
+    {
+      "cityName": "阜新",
+      "Initials": "fx"
+    }
+  ],
+  "h": [
+    {
+      "cityName": "邯郸",
+      "Initials": "hd"
+    },
+    {
+      "cityName": "呼和浩特",
+      "Initials": "hhht"
+    },
+    {
+      "cityName": "鹤岗",
+      "Initials": "hg"
+    }
+  ],
+  "j": [
+    {
+      "cityName": "锦州",
+      "Initials": "jz"
+    },
+    {
+      "cityName": "鸡西",
+      "Initials": "jx"
+    },
+    {
+      "cityName": "佳木斯",
+      "Initials": "jms"
+    }
+  ],
+  "k": [
+    {
+      "cityName": "开封",
+      "Initials": "kf"
+    }
+  ],
+  "l": [
+    {
+      "cityName": "辽阳",
+      "Initials": "ly"
+    },
+    {
+      "cityName": "临沂",
+      "Initials": "ly"
+    }
+  ],
+  "m": [
+    {
+      "cityName": "牡丹江",
+      "Initials": "mdj"
+    }
+  ],
+  "n": [
+    {
+      "cityName": "宁波",
+      "Initials": "nb"
+    }
+  ],
+  "p": [
+    {
+      "cityName": "平顶山",
+      "Initials": "pds"
+    }
+  ],
+  "q": [
+    {
+      "cityName": "泉州",
+      "Initials": "qz"
+    }
+  ],
+  "r": [
+    {
+      "cityName": "日照",
+      "Initials": "rz"
+    }
+  ],
+  "s": [
+    {
+      "cityName": "苏州",
+      "Initials": "sz"
+    }
+  ],
+  "t": [
+    {
+      "cityName": "泰安",
+      "Initials": "ta"
+    }
+  ],
+  "w": [
+    {
+      "cityName": "无锡",
+      "Initials": "wx"
+    },
+    {
+      "cityName": "潍坊",
+      "Initials": "wf"
+    }
+  ],
+  "x": [
+    {
+      "cityName": "厦门",
+      "Initials": "xm"
+    },
+    {
+      "cityName": "新乡",
+      "Initials": "xx"
+    }
+  ],
+  "y": [
+    {
+      "cityName": "伊春",
+      "Initials": "yc"
+    },
+    {
+      "cityName": "烟台",
+      "Initials": "yt"
+    }
+  ],
+  "z": [
+    {
+      "cityName": "张家口",
+      "Initials": "zjk"
+    },
+    {
+      "cityName": "枣庄",
+      "Initials": "zz"
+    }
+  ]
+}

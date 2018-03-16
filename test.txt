@@ -1,0 +1,31 @@
+e
+{
+	"e": [
+      {
+        "cityName": "鄂尔多斯",
+        "Initials": "erds"
+      }
+    ]
+}
+----------
+er
+{
+	"e": [
+      {
+        "cityName": "鄂尔多斯",
+        "Initials": "erds"
+      }
+    ]
+}
+if 列表[i].Initials.charAt(j) === val.charAt(j);
+就 push 到 arr中
+
+
+
+
+[
+  {
+    "cityName": "鄂尔多斯",
+    "Initials": "erds"
+  }
+]
